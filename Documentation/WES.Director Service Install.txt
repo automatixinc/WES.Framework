@@ -1,0 +1,2 @@
+sc.exe create "WES Director" binpath= "C:\Source\WES.Framework Builds\WES.Director\WES.Director.exe"
+sc.exe create "WES Sortation" binpath= "C:\Source\WES.Framework Builds\WES.Sortation\WES.Sortation.exe"
